@@ -20,5 +20,5 @@
 
 # DSA
 
-#### C++
+#### C/C++
 - Learn all data structures: [MyCodeSchool] https://www.youtube.com/@mycodeschoolmycodeschool
