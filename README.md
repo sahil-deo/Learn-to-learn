@@ -3,11 +3,11 @@
 # Frontend: 
 
 #### HTML and CSS:
-- w3schools: https://www.w3schools.com/html/
+- Fundamentals Documentation: [w3schools] https://www.w3schools.com/html/
 
 #### Javascript:
-- w3schools: https://www.w3schools.com/js/
-- freecodecamp: https://www.youtube.com/watch?v=Zi-Q0t4gMC8
+- Fundamentals Documentation: [w3schools] https://www.w3schools.com/js/
+- Complete Course Video: [FreeCodeCamp] https://www.youtube.com/watch?v=Zi-Q0t4gMC8
 - 30 day 30 projects, small ~30 min videos for small projects, start this after learning some fundamental javascript.
   
   https://www.youtube.com/playlist?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9
@@ -15,10 +15,10 @@
 # System/Core
 
 #### C:
-- w3schools: https://www.w3schools.com/c/
-- freecodecamp: https://www.youtube.com/watch?v=KJgsSFOSQv0
+- Fundamentals Documentation: [w3schools] https://www.w3schools.com/c/
+- Fundamentals Video: [FreeCodeCamp] https://www.youtube.com/watch?v=KJgsSFOSQv0
 
 # DSA
 
 #### C++
-- Learn all data structures: mycodeschool on youtube
+- Learn all data structures: [MyCodeSchool] https://www.youtube.com/@mycodeschoolmycodeschool
