@@ -12,6 +12,11 @@
   
   https://www.youtube.com/playlist?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9
 
+# Backend:
+
+#### Python Backend
+- FastAPI: [Celeb Curry] https://www.youtube.com/watch?v=k5abZLzsQc0
+
 # System/Core
 
 #### C:
