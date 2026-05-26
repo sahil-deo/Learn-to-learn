@@ -17,3 +17,8 @@
 #### C:
 - w3schools: https://www.w3schools.com/c/
 - freecodecamp: https://www.youtube.com/watch?v=KJgsSFOSQv0
+
+# DSA
+
+#### C++
+- Learn all data structures: mycodeschool on youtube
