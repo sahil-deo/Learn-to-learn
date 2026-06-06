@@ -24,6 +24,7 @@
 - Fundamentals Video: [FreeCodeCamp] https://www.youtube.com/watch?v=KJgsSFOSQv0
 
 #### Go:
+- Fundamentals Documentation: [A Tour of Go] https://go.dev/tour/welcome/1
 - Fundamentals Documentation: [Go by Example] https://gobyexample.com/
 
 # DSA
