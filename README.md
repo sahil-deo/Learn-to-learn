@@ -23,6 +23,9 @@
 - Fundamentals Documentation: [w3schools] https://www.w3schools.com/c/
 - Fundamentals Video: [FreeCodeCamp] https://www.youtube.com/watch?v=KJgsSFOSQv0
 
+#### Go:
+- Fundamentals Documentation: [Go by Example] https://gobyexample.com/
+
 # DSA
 
 #### C/C++
