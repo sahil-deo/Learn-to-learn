@@ -26,6 +26,7 @@
 #### Go:
 - Fundamentals Documentation: [A Tour of Go] https://go.dev/tour/welcome/1
 - Fundamentals Documentation: [Go by Example] https://gobyexample.com/
+- Fundamentals Documentation: [Go with Tests] https://quii.gitbook.io/learn-go-with-tests
 
 # DSA
 
