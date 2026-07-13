@@ -28,6 +28,9 @@
 - Fundamentals Documentation: [Go by Example] https://gobyexample.com/
 - Fundamentals Documentation: [Go with Tests] https://quii.gitbook.io/learn-go-with-tests
 
+#### Python:
+- Fundamentals Video: https://www.youtube.com/watch?v=K5KVEU3aaeQ
+
 # DSA
 
 #### C/C++
