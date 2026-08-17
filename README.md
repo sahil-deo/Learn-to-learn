@@ -22,6 +22,7 @@
 #### C:
 - Fundamentals Documentation: [w3schools] https://www.w3schools.com/c/
 - Fundamentals Video: [FreeCodeCamp] https://www.youtube.com/watch?v=KJgsSFOSQv0
+- Network Programming: [Jacob Sorber] https://youtube.com/playlist?list=PL9IEJIKnBJjH_zM5LnovnoaKlXML5qh17&si=WBIyREdcyFzcGIZd
 
 #### Go:
 - Fundamentals Documentation: [A Tour of Go] https://go.dev/tour/welcome/1
