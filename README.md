@@ -36,3 +36,6 @@
 
 #### C/C++
 - Learn all data structures: [MyCodeSchool] https://www.youtube.com/@mycodeschoolmycodeschool
+
+#### CP
+- CP 31: [Priyansh Agarwal] https://www.tle-eliminators.com/cp-sheet
