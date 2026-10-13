@@ -48,4 +48,5 @@
 # AI
 
 #### Agentic AI
+- Roadmap for Agentic AI [Scaler]: https://www.scaler.com/blog/agentic-ai-roadmap
 - LangChain for Agentic AI [Deeplearning.ai]: https://www.deeplearning.ai/courses/langchain
