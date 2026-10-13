@@ -44,3 +44,8 @@
 
 #### SRE
 - SRE Bootcamp: [One2N] https://one2n.io/sre-bootcamp
+
+# AI
+
+#### Agentic AI
+- LangChain for Agentic AI [Deeplearning.ai]: https://www.deeplearning.ai/courses/langchain
