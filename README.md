@@ -39,3 +39,8 @@
 
 #### CP
 - CP 31: [Priyansh Agarwal] https://www.tle-eliminators.com/cp-sheet
+
+# DevOps
+
+#### SRE
+- SRE Bootcamp: [One2N] https://one2n.io/sre-bootcamp
