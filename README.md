@@ -24,6 +24,9 @@
 - Fundamentals Video: [FreeCodeCamp] https://www.youtube.com/watch?v=KJgsSFOSQv0
 - Network Programming: [Jacob Sorber] https://youtube.com/playlist?list=PL9IEJIKnBJjH_zM5LnovnoaKlXML5qh17&si=WBIyREdcyFzcGIZd
 
+#### C++:
+- Project Idea: Build your own Redis: https://build-your-own.org/redis/
+
 #### Go:
 - Fundamentals Documentation: [A Tour of Go] https://go.dev/tour/welcome/1
 - Fundamentals Documentation: [Go by Example] https://gobyexample.com/
